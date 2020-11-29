@@ -4,4 +4,6 @@ target:test manymeber
 448615463
 448615463 test
 useless
-删除凭据的测试
+docker test
+push request test
+删除凭据测试
