@@ -7,3 +7,4 @@ useless
 docker test
 push request test
 删除凭据测试
+tests
